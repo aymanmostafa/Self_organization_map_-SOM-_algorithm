@@ -4,7 +4,7 @@
 // Email       : ayman93live@hotmail.com
 // Version     : v5.0
 //============================================================================
-// Self_organization_map_-SOM-_algorithm (data mining)
+// Self organization map (SOM) algorithm (data mining)
 #include <cstring>
 #include <map>
 #include <deque>
